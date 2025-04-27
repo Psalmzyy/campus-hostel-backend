@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Liberty Hostel",
+        "description": "Spacious rooms with WiFi",
+        "occupancyLimit": 4,
+        "availableRooms": 10,
+        "photo": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "name": "Victory Hostel",
+        "description": "Close to the library and sports complex",
+        "occupancyLimit": 2,
+        "availableRooms": 5,
+        "photo": "https://via.placeholder.com/150"
+    }
+]
